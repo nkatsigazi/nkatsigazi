@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: 'Inter', system-ui, sans-serif;
+  font-family: var(--font-cormorant), 'Inter', system-ui, sans-serif;
 }
 
 .glass {
